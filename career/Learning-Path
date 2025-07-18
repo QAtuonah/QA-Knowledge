@@ -1,0 +1,96 @@
+# 🧭 QA Career Roadmap — Manual QA → Automation → AI Testing
+
+## 🎯 Final Goal:
+Become a QA Engineer with strong skills in:
+- Manual Testing
+- Test Automation (Python + Selenium)
+- AI/ML Model Validation & Data Testing
+
+---
+
+## 🪜 Step-by-Step Learning Path
+
+### 🧪 1. Strengthen Manual QA Foundations
+- Review test case writing, exploratory testing, bug reporting
+- Learn test management tools (Jira, TestRail, Zephyr)
+- Understand software development lifecycle (Agile, Scrum)
+- Practice creating test plans, scenarios, and checklists
+
+📘 Resources:
+- Guru99 Manual Testing Series
+- Ministry of Testing Community
+- ISTQB Foundation Level Syllabus
+
+---
+
+### ⚙️ 2. Learn Test Automation with Python + Selenium
+- Learn Python basics: variables, loops, functions, OOP
+- Setup Selenium WebDriver
+- Write automated test scripts (locators, waits, assertions)
+- Integrate with Pytest and run basic test suites
+- Use Page Object Model (POM) for scalable design
+
+📘 Free Courses:
+- [Selenium Python Full Course (YouTube)](https://www.youtube.com/watch?v=OHx8hai9dKU)
+- [Google IT Automation with Python (Coursera)](https://www.coursera.org/professional-certificates/google-it-automation)
+
+🧰 Tools:
+- Python, Selenium, Pytest, ChromeDriver, Pycharm
+
+---
+
+### 🗃️ 3. Learn SQL + Data Validation
+- Write queries to verify data correctness
+- Join multiple tables for test cases
+- Validate ETL pipelines or backend services
+
+📘 Free Course:
+- [SQL for Data Analysis (Mode)](https://mode.com/sql-tutorial/)
+- [Khan Academy - SQL](https://www.khanacademy.org/computing/computer-programming/sql)
+
+---
+
+### 🧠 4. Introduction to AI/ML Concepts
+- Understand how ML models work (classification, regression, etc.)
+- Learn common issues in AI systems: bias, overfitting, drift
+- Know how predictions are served (APIs, model endpoints)
+
+📘 Free Courses:
+- [Google’s Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+- [AI For Everyone – Andrew Ng (Coursera)](https://www.coursera.org/learn/ai-for-everyone)
+
+---
+
+### 🤖 5. AI Testing & QA for ML Models
+- Learn to validate datasets (e.g., missing values, imbalanced classes)
+- Build test cases for ML APIs
+- Understand model explainability tools
+- Use Python + Pandas to explore model inputs/outputs
+
+📘 Recommended Reading:
+- [Testing AI Systems – Google](https://testing.googleblog.com/2019/06/testing-ai-systems.html)
+- [ML Testing Guide – DeepMind](https://github.com/deepmind/ml-testing-guide)
+
+---
+
+## 🧠 Bonus: Skills to Stand Out
+- Git & GitHub for version control
+- CI/CD basics (e.g., GitHub Actions)
+- REST API testing (Postman, Pytest + requests)
+- Basic data visualization (Matplotlib, Seaborn)
+
+---
+
+## ✅ Suggested Project Ideas
+| Project | Skills Applied |
+|--------|----------------|
+| Automate a login/logout flow | Python, Selenium, POM |
+| Write SQL queries for a mock DB | Data validation |
+| Build test suite for a fake ML model API | API testing, AI understanding |
+| Create GitHub repo to showcase scripts | Portfolio building |
+
+---
+
+## 🧭 Final Tip:
+Don’t rush the journey — each layer builds on the previous. Focus on real understanding, not just certificates. Combine practical exercises with study, and document everything in GitHub or Notion.
+
